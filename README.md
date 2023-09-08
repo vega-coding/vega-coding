@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://images.unsplash.com/photo-1693946334746-0966a3edf5e2">
+
 <!--
 **vega-coding/vega-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
