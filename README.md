@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-<img src="https://images.unsplash.com/photo-1693946334746-0966a3edf5e2">
+<div class="display:flex; width: 100%; background: red; padding: 20px">
+    <div class="width: 100%; background: blue; height: 100px">
+    </div>
+    <div class="width: 100%; background: blue; height: 100px">
+    </div>
+</div>
 
 <!--
 **vega-coding/vega-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
