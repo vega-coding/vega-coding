@@ -2,11 +2,10 @@
 
 <div style="display:flex; width: 100%; background: red; padding: 20px;gap: 16px">
     <div style="width: 100%; background-color: blue; height: 100px">
-    asdfasdf
+    testing
     </div>
     <div style="width: 100%; background: blue; height: 100px">
-
-    asdfasfd
+    testing 123
     </div>
 </div>
 
