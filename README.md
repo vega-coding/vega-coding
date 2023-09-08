@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-<div class="display:flex; width: 100%; background: red; padding: 20px">
-    <div class="width: 100%; background: blue; height: 100px">
+<div style="display:flex; width: 100%; background: red; padding: 20px;gap: 16px">
+    <div style="width: 100%; background-color: blue; height: 100px">
+    asdfasdf
     </div>
-    <div class="width: 100%; background: blue; height: 100px">
+    <div style="width: 100%; background: blue; height: 100px">
     </div>
 </div>
 
